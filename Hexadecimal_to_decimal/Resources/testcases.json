@@ -1,0 +1,42 @@
+[
+  {
+      "input": "1A",
+      "output": 26
+  },
+  {
+      "input": "F",
+      "output": 15
+  },
+  {
+      "input": "3D",
+      "output": 61
+  },
+  {
+      "input": "B",
+      "output": 11
+  },
+  {
+      "input": "9",
+      "output": 9
+  },
+  {
+      "input": "1",
+      "output": 1
+  },
+  {
+      "input": "A",
+      "output": 10
+  },
+  {
+      "input": "F",
+      "output": 15
+  },
+  {
+      "input": "10",
+      "output": 16
+  },
+  {
+      "input": "2B",
+      "output": 43
+  }
+]

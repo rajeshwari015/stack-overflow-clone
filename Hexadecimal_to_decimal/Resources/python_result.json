@@ -1,0 +1,52 @@
+[
+    {
+        "input": "1A",
+        "output": 26,
+        "result": true
+    },
+    {
+        "input": "F",
+        "output": 15,
+        "result": true
+    },
+    {
+        "input": "3D",
+        "output": 61,
+        "result": true
+    },
+    {
+        "input": "B",
+        "output": 11,
+        "result": true
+    },
+    {
+        "input": "9",
+        "output": 9,
+        "result": true
+    },
+    {
+        "input": "1",
+        "output": 1,
+        "result": true
+    },
+    {
+        "input": "A",
+        "output": 10,
+        "result": true
+    },
+    {
+        "input": "F",
+        "output": 15,
+        "result": true
+    },
+    {
+        "input": "10",
+        "output": 16,
+        "result": true
+    },
+    {
+        "input": "2B",
+        "output": 43,
+        "result": true
+    }
+]
